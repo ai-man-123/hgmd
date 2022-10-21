@@ -20,18 +20,18 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/02a2903c1e25228285740.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* :Bara
-❑ *Umur* :13 Tahun
-❑ *Kelas* :1 Smp
+❑ *Nama* :Aiman
+❑ *Umur* :15 Tahun
+❑ *Kelas* :gk tau
 
 ❑ *Ulang Tahun* :18 Okto 2008
-❑ *Alamat* : Indonesia,Jawa Barat, Bandung
+❑ *Alamat* : Malaysia
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'P - Pilih dibawah kak'
+  let teks = 'aiman - Pilih dibawah kak'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
